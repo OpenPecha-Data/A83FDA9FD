@@ -1,0 +1,19 @@
+id: A83FDA9FD
+title: Brief Red Sur Offering
+type: translation
+pechas:
+- I68EC49E9
+- ID4C4B59A
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:48:39.482396
+  last_modified_at: 2023-01-04 11:48:39.482409
+  collections:
+  - Dudjom Rinpoche Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I68EC49E9/29D2: F0FD
+  ID4C4B59A/20FB: F0FD
